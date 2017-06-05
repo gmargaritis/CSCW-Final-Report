@@ -119,7 +119,7 @@ abusing (καταχρώμαι), abusive (καταχρηστικός , καταχ
 
 **Link:** [tweet-publisher/index.js](https://github.com/gmargaritis/twitter-stream-globe/blob/c7fb37ad94b8a61d3c6dbeca4dfd5063e98c6083/tweet-publisher/index.js#L36)
 
-### Παραδοτέο 4
+## Παραδοτέο 4
 
 ### Αλλαγή της απεικόνησης απο 3D σε 2D
 
@@ -145,6 +145,7 @@ abusing (καταχρώμαι), abusive (καταχρηστικός , καταχ
 
 ## Bonus A
 
+[https://gmargaritis.github.io/Final-Report/](https://gmargaritis.github.io/Final-Report/)
 
 ## Βιβλιογραφία
 
