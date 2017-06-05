@@ -127,7 +127,7 @@ abusing (καταχρώμαι), abusive (καταχρηστικός , καταχ
 
 Επιτεύχθηκε η αλλαγή της απεικόνησης της υδρογείου απο σφαίρα(3D) σε ένα επίπεδο χάρτη(2D). Σύμφωνα με τον οδηγό χρήσης του three.js [2] χρησιμοποιήθηκε ο τύπος "planeGeometry" αντί για το τύπο "sphereGeometry" ώστε να γίνει η μετατροπή στο επίπεδο.
 
-Δυστυχώς δεν ήταν δυνατή η μετατροπή των ακτίων(beams) από vector3 σε vector2 και έτσι δεν προσαρμόστηκαν πάνω στον επίπεδο χάρτη.
+Δυστυχώς δεν ήταν δυνατή η μετατροπή των ακτίνων(beams) από vector3 σε vector2 και έτσι δεν προσαρμόστηκαν πάνω στον επίπεδο χάρτη.
 
 **Link:**[TwitterStreamGlobe.js](https://github.com/gmargaritis/twitter-stream-globe/blob/53bb8a421e52475f0d15d54f51a308e87e25a9c9/public/javascripts/TwitterStreamGlobe.js#L56)
 
